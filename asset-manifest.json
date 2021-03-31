@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/myquiz/static/css/main.3cc8637b.chunk.css",
+    "main.js": "/github.io/myquiz/static/js/main.6e691e68.chunk.js",
+    "main.js.map": "/github.io/myquiz/static/js/main.6e691e68.chunk.js.map",
+    "runtime-main.js": "/github.io/myquiz/static/js/runtime-main.2e5d29ee.js",
+    "runtime-main.js.map": "/github.io/myquiz/static/js/runtime-main.2e5d29ee.js.map",
+    "static/js/2.8b13a4ef.chunk.js": "/github.io/myquiz/static/js/2.8b13a4ef.chunk.js",
+    "static/js/2.8b13a4ef.chunk.js.map": "/github.io/myquiz/static/js/2.8b13a4ef.chunk.js.map",
+    "static/js/3.6a7beb2a.chunk.js": "/github.io/myquiz/static/js/3.6a7beb2a.chunk.js",
+    "static/js/3.6a7beb2a.chunk.js.map": "/github.io/myquiz/static/js/3.6a7beb2a.chunk.js.map",
+    "index.html": "/github.io/myquiz/index.html",
+    "static/css/main.3cc8637b.chunk.css.map": "/github.io/myquiz/static/css/main.3cc8637b.chunk.css.map",
+    "static/js/2.8b13a4ef.chunk.js.LICENSE.txt": "/github.io/myquiz/static/js/2.8b13a4ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e5d29ee.js",
+    "static/js/2.8b13a4ef.chunk.js",
+    "static/css/main.3cc8637b.chunk.css",
+    "static/js/main.6e691e68.chunk.js"
+  ]
+}
